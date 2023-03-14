@@ -1,3 +1,20 @@
  body {
-    color: ;
+    background-color: azure;
+   }
+
+  
+ li {
+   display: inline;
+   float: right;
+   }
+
+   li a {
+   display: block;
+   padding: 18px;
+   font-size: 30px;
  }
+
+ .head {
+   margin-top: 200px;
+ }
+
