@@ -1,5 +1,13 @@
  body {
-    background-color: azure;
+  background-image: linear-gradient(to right, purple, green, black);
+   }
+
+   h1{
+    font-size: 50px;
+   }
+
+   h2 {
+    font-size: 30px;
    }
 
   
@@ -29,16 +37,108 @@ li a {
 
  .container {
    margin: 60px;
+   font-size: 200%;
  }
 
  button {
    border-radius: 800px;
+   border-color: blue;
+   font-size: 130%;
  }
 
  img {
    float: right;
-   width: 190px;
+   width: 30%;
    height: 200px;
-   border-radius: 500px;
+   border-radius: 1000px;
  }
+
+ footer {
+  font-size: 120%;
+  padding: 1%;
+  border: 20%;
+  border-color: black;
+  border-style: solid;
+  color: wheat;
+  background-color: black;
+  margin-top: 23%;
+  text-align: center;
+  
+ }
+
+ * {
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: poppins , sans-serif;
+ }
+
+ .logo{
+  display: inline-block;
+  height: 60px;
+  width: 60px;
+  float: left;
+  margin: 0 5px;
+  overflow: hidden;
+  background: #fff;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0px 10px 10px;
+  rgba(0,0,0,0.1);
+  transition: all 0.3s ease-o;
+ }
+
+ .wrapper.button:hover{
+  width: 200px;
+ }
+
+ .wrapper.button.icon{
+  display: inline-block;
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  border-radius: 50px;
+  box-sizing: border-box;
+  line-height: 60px;
+  transition: all 0.3s ease-out;
+ }
+
+ .wrapper.button:nth-child(1) 
+ hover.icon{background: #4267b2;}
+
+ .wrapper.button:nth-child(2) 
+ hover.icon{background: #4267b2;}
+
+ .wrapper.button:nth-child(3) 
+ hover.icon{background: #4267b2;}
+
+ .wrapper.button:nth-child(4) 
+ hover.icon{background: #4267b2;}
+
+ .wrapper .button .icon i{
+  font-size: 25px;
+  line-height: 60px;
+  transition: all 0.3s ease-out;
+ }
+
+ .wrapper .button:nth-child(1)
+ span{
+  color: #4267b2;
+}
+
+ .wrapper .button:nth-child(2)
+ span{
+  color: #4267b2;
+}
+
+ .wrapper .button:nth-child(3)
+ span{
+  color: #4267b2;
+}
+
+ .wrapper .button:nth-child(4)
+ span{
+  color: #4267b2;
+}
+
 
