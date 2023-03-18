@@ -2,17 +2,29 @@ body {
     background-color: black;
 }
 
+h1 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+
+}
+
 p {
-    font-size: 20px;
-    background-color: aliceblue;
+    font-size: 30px;
+    color: aliceblue;
 }
 
 img {
-    width: 50px;
-    height: 100px;
-    border-radius: 50%;
+    width: 50%;
+    height: 80%;
+    border-radius: 10%;
+    margin-top: 15px;
 }
 
 .container {
     display: flex;
+}
+
+.info {
+    margin-top: 30%;
 }

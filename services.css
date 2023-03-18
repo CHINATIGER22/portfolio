@@ -1,0 +1,10 @@
+body {
+    background-image: linear-gradient(to right, purple, black);
+    
+}
+
+h1 {
+    font-size: 40px;
+    color: aliceblue;
+    text-align: center;
+}
