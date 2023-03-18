@@ -10,6 +10,10 @@
     font-size: 30px;
    }
 
+   p {
+    font-size: 20px;
+   }
+
   
  li {
    display: inline;
@@ -50,8 +54,8 @@ li a {
 
  img {
    float: right;
-   width: 50%;
-   height: 250px;
+   width: 30%;
+   height: 150px;
    border-radius: 2000%;
  }
 
