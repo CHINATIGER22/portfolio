@@ -40,10 +40,10 @@ p {
 }
 
 img {
-    width: 50%;
+    width: 40%;
     height: 80%;
     border-radius: 10%;
-    margin-top: 15px;
+    margin: 15px;
 }
 
 .container {
@@ -51,5 +51,6 @@ img {
 }
 
 .info {
-    margin-top: 30%;
+    margin-top: 20%;
+    
 }

@@ -1,12 +1,13 @@
  body {
   background-color: black;
-   }
+  }
 
  h1{
-    font-size: 60px;
-    font-family: "Times New Roman", Times, serif;
-    color: #4267b2;
-   }
+  font-size: 60px;
+  font-family: "Times New Roman",
+  Times, serif;
+  color: #4267b2;
+  }
 
 h2 {
     font-size: 40px;
@@ -62,9 +63,11 @@ li a {
 
  img {
    float: right;
-   width: 30%;
-   height: 150px;
-   border-radius: 2000%;
+   width: 10%;
+   height: 45%;
+   border-radius:50%;
+   margin-right: 10%;
+   margin-top: 0.5%;
  }
 
  footer {
