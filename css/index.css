@@ -77,7 +77,7 @@ li a {
   border-color: #4267b2;
   border-top-style: solid;
   color: wheat;
-  margin-top: 23%;
+  margin-top: 20%;
   text-align: center;
  }
 
@@ -100,7 +100,7 @@ li a {
   cursor: pointer;
   box-shadow: 0px 10px 10px;
   transition: all 0.3s ease-o;
-  margin-top:  15%;
+  margin-top:  10%;
  }
 
  .wrapper.button:hover{
