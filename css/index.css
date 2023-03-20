@@ -1,23 +1,29 @@
  body {
-  background-image: linear-gradient(to right, purple, brown, green, black);
+  background-color: black;
    }
 
-   h1{
-    font-size: 50px;
+ h1{
+    font-size: 60px;
     font-family: "Times New Roman", Times, serif;
+    color: #4267b2;
    }
 
-   h2 {
-    font-size: 30px;
+h2 {
+    font-size: 40px;
     font-family: "Times New Roman", Times, serif;
+    color: #4267b2;
    }
 
-   p {
-    font-size: 20px;
+h3 {
+    color: chartreuse;
    }
 
-  
- li {
+p {
+    font-size: 25px;
+    color: antiquewhite;
+  }
+
+li {
    display: inline;
    float: right;
    }
@@ -64,14 +70,12 @@ li a {
  footer {
   font-size: 120%;
   padding: 1%;
-  
   border-top: 20%;
-  border-color: black;
+  border-color: #4267b2;
   border-top-style: solid;
   color: wheat;
   margin-top: 23%;
   text-align: center;
-    
  }
 
  * {
@@ -132,21 +136,21 @@ li a {
  .wrapper .button:nth-child(1)
  span{
   color: #4267b2;
-}
+ }
 
  .wrapper .button:nth-child(2)
  span{
   color: #4267b2;
-}
+ }
 
  .wrapper .button:nth-child(3)
  span{
   color: #4267b2;
-}
+ }
 
  .wrapper .button:nth-child(4)
  span{
   color: #4267b2;
-}
+ }
 
 
