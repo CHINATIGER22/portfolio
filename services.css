@@ -29,21 +29,37 @@ li {
  
 
  h1 {
-    font-size: 40px;
+    font-size: 35px;
     color: aliceblue;
     text-align: center;
  }
 
- h2 {
-  font-size: 35px;
+ .well  {
+  font-size: 65px;
   color: goldenrod;
+  margin-left: 8%;
  }
 
- h4 {
-  font-size: 25px;
+ #container1 {
+  font-size: 30px;
+  margin-left: 8%;
  }
 
  p {
   font-size: 35px;
   color: grey;
+  text-align: center;
+ }
+
+ .king {
+   display: flex;
+ }
+
+ img {
+  float: right;
+  margin-right: 30%;
+  margin-left: 40%;
+  margin-top: 4%;
+  width: 30%;
+  height: 100%;
  }
