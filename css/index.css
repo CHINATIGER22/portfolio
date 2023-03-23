@@ -118,7 +118,7 @@ li a {
   cursor: pointer;
   box-shadow: 0px 10px 10px;
   transition: all 0.3s ease-o;
-  margin-top:  4%;
+  margin-top:  10%;
  }
 
  .wrapper.button:hover{
