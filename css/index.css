@@ -18,25 +18,26 @@ header {
   }
 
  h1{
-  font-size: 20px;
+  font-size: 25px;
   font-family: "Times New Roman",
   Times, serif;
   color: #4267b2;
   }
 
 h2 {
-    font-size: 15px;
+    font-size: 20px;
     font-family: "Times New Roman", Times, serif;
     color: #4267b2;
+    margin-top: 20%;
    }
 
 h3 {
     color: chartreuse;
-    font-size: 12px;
+    font-size: 15px;
    }
 
 p {
-    font-size: 10px;
+    font-size: 13px;
     color: antiquewhite;
   }
 
@@ -65,7 +66,7 @@ li a {
  }
 
  .container {
-   margin: 60px;
+   margin: 50px;
    font-size: 200%;
  }
 
@@ -75,6 +76,7 @@ li a {
    font-size: 130%;
    border-style: solid;
    color: blue;
+   margin-top: 30px;
  }
 
  img {
@@ -93,7 +95,7 @@ li a {
   border-color: #4267b2;
   border-top-style: solid;
   color: wheat;
-  margin-top: 15%;
+  margin-top: 30%;
   text-align: center;
  }
 
