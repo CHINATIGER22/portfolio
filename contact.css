@@ -30,12 +30,12 @@ li {
 h1 {
     color: aliceblue;
     text-align: center;
-    font-size: 50px;
+    font-size: 30px;
 
 }
 
 p {
-    font-size: 30px;
+    font-size: 20px;
     color: aliceblue;
 }
 
@@ -51,6 +51,6 @@ img {
 }
 
 .info {
-    margin-top: 20%;
+    margin-top: 15%;
     
 }
