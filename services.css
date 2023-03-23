@@ -11,7 +11,7 @@ li {
  li a {
     display: block;
     padding: 18px;
-    font-size: 20px;
+    font-size: 10px;
   }
  
   .head {
@@ -28,25 +28,26 @@ li {
     }
 
  h1 {
-    font-size: 35px;
+    font-size: 20px;
     color: aliceblue;
     text-align: center;
  }
 
  .well  {
-  font-size: 65px;
+  font-size: 25px;
   color: goldenrod;
   margin-left: 8%;
+  margin-top: 50px;
  }
 
  #container1 {
-  font-size: 30px;
-  margin-left: 8%;
+  font-size: 20px;
+  margin-left: 10%;
   color: greenyellow;
  }
 
  p {
-  font-size: 35px;
+  font-size: 25px;
   color: grey;
   text-align: center;
  }
@@ -57,9 +58,9 @@ li {
 
  img {
   float: right;
-  margin-right: 30%;
-  margin-left: 40%;
+  margin-right: 20%;
+  margin-left: 20%;
   margin-top: 4%;
-  width: 30%;
+  width: 40%;
   height: 100%;
  }

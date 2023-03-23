@@ -10,7 +10,7 @@ li {
  li a {
     display: block;
     padding: 18px;
-    font-size: 15px;
+    font-size: 10px;
   }
  
   .head {
@@ -40,7 +40,7 @@ p {
 }
 
 img {
-    width: 40%;
+    width: 30%;
     height: 60%;
     border-radius: 10%;
     margin: 15px;
