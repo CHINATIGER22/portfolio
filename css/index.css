@@ -174,4 +174,9 @@ li a {
   color: #4267b2;
  }
 
+ /* mobile view */
+ [class*="col-"] {
+  width: 100%;
+ }
+
 
