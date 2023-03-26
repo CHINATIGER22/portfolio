@@ -12,10 +12,9 @@ header {
 }
 
  
- body {
+ .bg-1 {
   background-color: black;
-  font-size: 10px;
-  }
+ }
 
  h1{
   font-size: 25px;
