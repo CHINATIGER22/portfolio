@@ -1,8 +1,8 @@
- /* * {
+* {
   box-sizing: border-box;
- }
+}
 
- html {
+html {
   font-family: "Lucida Sans", sans-serif;
 }
 
@@ -12,23 +12,23 @@ header {
 }
 
  
- .bg-1 {
+.bg-1 {
   background-color: black;
- }
+}
 
- h1{
+h1{
   font-size: 25px;
   font-family: "Times New Roman",
   Times, serif;
   color: #4267b2;
-  }
+}
 
 h2 {
     font-size: 20px;
     font-family: "Times New Roman", Times, serif;
     color: #4267b2;
     margin-top: 10%;
-   }
+}
 
 h3 {
     color: chartreuse;
@@ -57,37 +57,37 @@ li a {
   margin-bottom: 0.1%;
 }
 
- ul {
+ul {
    list-style-type: none;
    margin: 0;
    padding: 0;
    overflow: hidden;
- }
+}
 
- .container {
+.container {
    margin: 50px;
    font-size: 200%;
- }
+}
 
- button {
+button {
    border-radius: 800px;
    border-color: green;
    font-size: 130%;
    border-style: solid;
    color: blue;
    margin-top: 30px;
- }
+}
 
- img {
+img {
    float: right;
    width: 10%;
    height: 45%;
    border-radius:50%;
    margin-right: 10%;
    margin-top: 0.5%;
- }
+}
 
- footer {
+footer {
   font-size: 120%;
   padding: 1%;
   border-top: 20%;
@@ -96,16 +96,16 @@ li a {
   color: wheat;
   margin-top: 20%;
   text-align: center;
- }
+}
 
- * {
+* {
   margin: 0%;
   padding: 0;
   box-sizing: border-box;
   font-family: poppins , sans-serif;
- }
+}
 
- .logo {
+.logo {
   display: inline-block;
   height: 30px;
   width: 30px;
@@ -118,13 +118,13 @@ li a {
   box-shadow: 0px 10px 10px;
   transition: all 0.3s ease-o;
   margin-top:  10%;
- }
+}
 
- .wrapper.button:hover{
+.wrapper.button:hover{
   width: 200px;
- }
+}
 
- .wrapper.button.icon{
+.wrapper.button.icon{
   display: inline-block;
   height: 60px;
   width: 60px;
@@ -133,47 +133,47 @@ li a {
   box-sizing: border-box;
   line-height: 60px;
   transition: all 0.3s ease-out;
- }
+}
 
- .wrapper.button:nth-child(1) 
+.wrapper.button:nth-child(1) 
  hover.icon{background: #4267b2;}
 
- .wrapper.button:nth-child(2) 
+.wrapper.button:nth-child(2) 
  hover.icon{background: #4267b2;}
 
- .wrapper.button:nth-child(3) 
+.wrapper.button:nth-child(3) 
  hover.icon{background: #4267b2;}
 
- .wrapper.button:nth-child(4) 
+.wrapper.button:nth-child(4) 
  hover.icon{background: #4267b2;}
 
- .wrapper .button .icon i{
+.wrapper .button .icon i{
   font-size: 25px;
   line-height: 60px;
   transition: all 0.3s ease-out;
- }
+}
 
- .wrapper .button:nth-child(1)
+.wrapper .button:nth-child(1)
  span{
   color: #4267b2;
- }
+}
 
- .wrapper .button:nth-child(2)
+.wrapper .button:nth-child(2)
  span{
   color: #4267b2;
- }
+}
 
- .wrapper .button:nth-child(3)
+.wrapper .button:nth-child(3)
  span{
   color: #4267b2;
- }
+}
 
- .wrapper .button:nth-child(4)
+.wrapper .button:nth-child(4)
  span{
   color: #4267b2;
- }
+}
 
- /* mobile view */
+ /* mobile view
 body {
   background-color: mediumpurple;
 } 
