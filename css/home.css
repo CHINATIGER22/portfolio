@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+background-color: rgb(199, 191, 191);
+}
+
 .navbar ul{
   display: flex;
   justify-content: flex-end;
