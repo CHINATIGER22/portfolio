@@ -33,25 +33,25 @@ h2 {
 h3 {
     color: chartreuse;
     font-size: 15px;
-   }
+}
 
 p {
     font-size: 13px;
     color: antiquewhite;
-  }
+}
 
 li {
    display: inline;
    float: right;
-   }
+}
 
 li a {
    display: block;
    padding: 18px;
    font-size: 10px;
- }
+}
 
- .head {
+.head {
   margin: 50px;
   margin-left: 40px;
   margin-bottom: 0.1%;
