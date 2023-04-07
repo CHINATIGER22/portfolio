@@ -23,8 +23,15 @@
 
 .container {
   display: flex;
+  padding:  10rem;
 }
 
+.home-about {
+  background-image: linear-gradient(to right, rgb(107, 60, 107), rgb(206, 122, 122), rgb(255, 136, 0));
+  font-size: 20px;
+   color: antiquewhite;
+   padding: 50px;
+}
 
 
 
