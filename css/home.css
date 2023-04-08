@@ -28,13 +28,14 @@ background-color: rgb(199, 191, 191);
 .container {
   display: flex;
   padding:  10rem;
+  height: 850px;
 }
 
 .home-about {
   background-image: linear-gradient(to right, rgb(107, 60, 107), rgb(206, 122, 122), rgb(255, 136, 0));
   font-size: 20px;
-   color: antiquewhite;
-   padding: 50px;
+  color: antiquewhite;
+  padding: 50px;
 }
 
 button {
@@ -44,11 +45,12 @@ button {
   border-style: solid;
   color: blue;
   margin-top: 30px;
+  text-decoration: none;
 }
 
 .home-image {
-  height: 1000rem;
-  width: 200px;: ;
+  height: 1000px;
+  width: 200px;
 }
 
 
