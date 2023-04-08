@@ -38,6 +38,14 @@ background-color: rgb(199, 191, 191);
   padding: 50px;
 }
 
+.home-about2 {
+  font-size: 15px;
+  color: antiquewhite;
+  padding:65px;
+  background-image: url(emmanuel.jpg);
+  background-color: aquamarine;
+}
+
 button {
   border-radius: 1800px;
   border-color: green;
