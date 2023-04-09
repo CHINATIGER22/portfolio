@@ -47,9 +47,8 @@ background-color: rgb(199, 191, 191);
 }
 
 button {
-  border-radius: 1800px;
+  border-radius: 2000rem;
   font-size: 200%;
-  border-style: solid;
   margin-top: 30px;
   text-decoration: none;
 }
