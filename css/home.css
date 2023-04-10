@@ -59,6 +59,7 @@ button {
 }
 
 .home-icon {
+  display: flex;
   height: 5rem;
   width: 3px;
 }
