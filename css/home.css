@@ -58,10 +58,19 @@ button {
   width: 200px;
 }
 
-.home-icon {
+.home-icon img {
   display: flex;
-  height: 5rem;
-  width: 3px;
+  height: 50px;
+  width: 50px;
+  float: left;
+  
+}
+
+.home-footer {
+  padding: 100px;
+  text-align: center;
+  border-color: cornflowerblue;
+  border-
 }
 
 
