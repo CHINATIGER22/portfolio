@@ -53,22 +53,16 @@ button {
   text-decoration: none;
 }
 
-.home-image {
-  height: 1000px;
-  width: 200px;
-}
 
 .home-icon img {
-  display: flex;
-  height: 50px;
-  width: 50px;
-  float: left;
-  gap: 9000px;
-  
+  height: 7em; 
+  padding: 30px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .home-footer {
-  padding: 100px;
+  padding: 20px;
   text-align: center;
   border-color: cornflowerblue;
   
