@@ -22,14 +22,12 @@ background-color: rgb(199, 191, 191);
 
 .navbar a{
   text-decoration: none;
-  
 }
 
 .container {
   display: flex;
   padding:  10rem;
-  height: 850px;
-  
+  height: 850px; 
 }  
 
 .container-home {
@@ -38,15 +36,13 @@ background-color: rgb(199, 191, 191);
 
 .home-img {
   background-color: red;
-  object-fit: contain;
-  
+  object-fit: contain;  
 }
 
 .home-img img {
   height: 100%;
   max-height: auto;
-  width: 100%;
-  
+  width: 100%;  
 }
 
 .home-about {
@@ -54,7 +50,6 @@ background-color: rgb(199, 191, 191);
   font-size: 1.3rem;
   color: antiquewhite;
   padding: 5%;
-  
 }
 
 .home-about p {
@@ -62,15 +57,11 @@ background-color: rgb(199, 191, 191);
   line-height: 1.4em;
 }
 
-
 .home-about2 {
   color: antiquewhite;
   background-image: url(/images/Happy-Man.jpg);
   background-repeat: no-repeat;
   background-size: 50rem;
-  
-  
-  
 }
 
 .home-about2-info {
@@ -78,22 +69,17 @@ background-color: rgb(199, 191, 191);
   width: 50%;
   margin: 15% auto;
   margin-right: 100px;
-  color: black;
-  
+  color: black; 
 }
-
-
 
 .home-about2-info {
   font-size: 1.4rem;
   line-height: 1.3em;
-  
 }
 
 button {
  padding: 3%;
  border-radius: 15px;
-
  font-size: 1.2rem;
  background-color: orange;
 }
@@ -101,7 +87,6 @@ button {
 button:hover {
   background-color: white;
 }
-
 
 .home-icon {
   display: flex;
@@ -116,6 +101,7 @@ button:hover {
   aspect-ratio: 3/2;
   object-fit: contain;
 }
+
 .home-footer {
   padding: 20px;
   text-align: center;
