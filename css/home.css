@@ -29,38 +29,93 @@ background-color: rgb(199, 191, 191);
   display: flex;
   padding:  10rem;
   height: 850px;
+  
+}  
+
+.container-home {
+  display: flex;
+}
+
+.home-img {
+  background-color: red;
+  object-fit: contain;
+  
+}
+
+.home-img img {
+  height: 100%;
+  max-height: auto;
+  width: 100%;
+  
 }
 
 .home-about {
   background-image: linear-gradient(to right, rgb(107, 60, 107), rgb(206, 122, 122), rgb(255, 136, 0));
-  font-size: 20px;
+  font-size: 1.3rem;
   color: antiquewhite;
-  padding: 50px;
+  padding: 5%;
+  
 }
 
+.home-about p {
+  font-size: 1.2rem;
+  line-height: 1.4em;
+}
+
+
 .home-about2 {
-  font-size: 15px;
   color: antiquewhite;
-  padding:65px;
-  background-image: url(emmanuel.jpg);
-  background-color: aquamarine;
+  background-image: url(/images/Happy-Man.jpg);
+  background-repeat: no-repeat;
+  background-size: 50rem;
+  
+  
+  
+}
+
+.home-about2-info {
+  justify-content: center;
+  width: 50%;
+  margin: 15% auto;
+  margin-right: 100px;
+  color: black;
+  
+}
+
+
+
+.home-about2-info {
+  font-size: 1.4rem;
+  line-height: 1.3em;
+  
 }
 
 button {
-  border-radius: 200rem;
-  font-size: 200%;
-  margin-top: 30px;
-  text-decoration: none;
+ padding: 3%;
+ border-radius: 15px;
+
+ font-size: 1.2rem;
+ background-color: orange;
 }
 
+button:hover {
+  background-color: white;
+}
+
+
+.home-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* width: 70%; */
+  margin: 0 auto;
+}
 
 .home-icon img {
-  height: 7em; 
-  padding: 30px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 45px;
+  aspect-ratio: 3/2;
+  object-fit: contain;
 }
-
 .home-footer {
   padding: 20px;
   text-align: center;
