@@ -1,0 +1,33 @@
+body {
+    background-color: darkolivegreen;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container-home {
+    display: flex;
+}
+.container2 {
+    display: flex;
+    padding: 7rem;
+    
+}
+
+.info{
+    background-image: url(/images/earthking.jpg);
+    background-repeat: no-repeat;
+    background-size: 50rem;
+    width: 100rem;
+    font-size: 1.3rem;
+    padding: 5%;
+}
+
+.home-img {
+    object-fit: contain;  
+  }
+
+.home-img img {
+    width: 25rem;
+}
