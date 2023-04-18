@@ -1,9 +1,11 @@
 body {
-    background-color: darkolivegreen;
+    background-color: midnightblue;
 }
 
 h1 {
     text-align: center;
+    color: aquamarine;
+    padding-top: 100px;
 }
 
 .container-home {
@@ -11,16 +13,16 @@ h1 {
 }
 .container2 {
     display: flex;
-    padding: 7rem;
+    padding-left: 7rem;
     
 }
 
 .info{
-    background-image: url(/images/earthking.jpg);
+    background-image: url(/images/beach11.jpg);
     background-repeat: no-repeat;
     background-size: 50rem;
-    width: 100rem;
-    font-size: 1.3rem;
+    width: 120rem;
+    font-size: 1.5rem;
     padding: 5%;
 }
 
@@ -30,4 +32,19 @@ h1 {
 
 .home-img img {
     width: 25rem;
+    height: 28.2rem;
 }
+
+.home-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 70%; */
+    margin: 0 auto;
+  }
+  
+  .home-icon img {
+    width: 45px;
+    object-fit: contain;
+    padding: 30px;
+  }
