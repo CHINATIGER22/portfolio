@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    /* padding: 30px; */
+    justify-content: center;
+    background-image: url(/images/sleezy1.png);
+    background-repeat: no-repeat;
+    background-size: 50rem;
+    /* width: 40rem; */
+    font-size: 1rem;
+    padding: 20%;
+    color: aliceblue;
+}
+
+.container1 {
+    /* padding: 30px; */
+    padding-right: 100px;
+    justify-content: flex-start;
+    /* color: aliceblue; */
+}
+
+.container2 {
+    /* padding: 30px; */
+    justify-content: flex-end;
+    /* color: aliceblue; */
+}
