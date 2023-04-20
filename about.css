@@ -13,13 +13,14 @@ body {
     font-size: 1rem;
     padding: 20%;
     color: aliceblue;
+    margin: auto;
 }
 
 .container1 {
    
     padding-right: 100px;
     justify-content: flex-start;
-    width: 50%;
+    width: 30%;
     
 }
 
