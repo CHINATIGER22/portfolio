@@ -1,19 +1,16 @@
 body {
     background-image: url(/images/sleezy1.png);
     background-repeat: no-repeat;
-    background-size: 100%;
-    justify-content: ;
+    background-size: 100% 100%;
 }
 
 .container {
     display: flex;
-    padding: 30px;
     justify-content: center;
     width: 100%;
-    font-size: 1rem;
+    font-size: 19px;
     padding: 20%;
     color: aliceblue;
-    margin: auto;
 }
 
 .container1 {
@@ -26,5 +23,6 @@ body {
 
 .container2 {
     justify-content: flex-end;
+    margin-left: 20%;
     
 }
