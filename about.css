@@ -8,16 +8,20 @@ body {
     display: flex;
     justify-content: center;
     width: 100%;
+    height: fit-content;
     font-size: 19px;
     padding: 20%;
+    box-sizing: border-box;
     color: aliceblue;
 }
 
 .container1 {
-    padding-right: 100px;
-    justify-content: flex-start;
-    width: 30%;
-    height: 150px;
+    margin: 0;
+    /* float: right; */
+    /* padding-right: 100px; */
+    /* justify-content: flex-start; */
+    /* width: 30%; */
+    /* height: 150px; */
     
 }
 
