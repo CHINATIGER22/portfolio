@@ -31,3 +31,10 @@ body {
     margin-left: 25%;
     
 }
+
+/* mobile view */
+@media only screen and (max-width:780px) {
+    .menu, .main, .right {
+      width: 100%;
+    }
+}
