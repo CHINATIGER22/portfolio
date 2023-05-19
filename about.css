@@ -6,7 +6,7 @@ body {
 
 .container {
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     width: 100%;
     height: 30%;
     font-size: 19px;
@@ -16,9 +16,9 @@ body {
 }
 
 .container1 {
-    margin: 0.5%;
+    margin: 1.5%;
     justify-content: flex-start;
-    /* float: right; */
+    float: left;
     /* padding-right: 100px; */
     /* justify-content: flex-start; */
     /* width: 30%; */
