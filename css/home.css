@@ -62,14 +62,18 @@ background-color: rgb(199, 191, 191);
   background-image: url(/images/Happy-Man.jpg);
   background-repeat: no-repeat;
   background-size: 50rem;
+  
 }
 
 .home-about2-info {
   justify-content: center;
   width: 50%;
-  margin: 15% auto;
+  margin: 30%;
   margin-right: 100px;
   color: black; 
+  float: right;
+  position: relative;
+  margin-right: 100px;
 }
 
 .home-about2-info {
