@@ -62,11 +62,10 @@ background-color: rgb(199, 191, 191);
   background-image: url(/images/Happy-Man.jpg);
   background-repeat: no-repeat;
   background-size: 50rem;
-  
+  justify-content: center;
 }
 
 .home-about2-info {
-  justify-content: center;
   width: 50%;
   margin: 30%;
   margin-right: 100px;
@@ -76,10 +75,10 @@ background-color: rgb(199, 191, 191);
   margin-right: 100px;
 }
 
-.home-about2-info {
+/* .home-about2-info p {
   font-size: 1.4rem;
   line-height: 1.3em;
-}
+} */
 
 button {
  padding: 3%;
@@ -115,9 +114,20 @@ button:hover {
 
 /* mobile view */
 @media only screen and (max-width:780px) {
-  .menu, .main, .right {
+  .container, .container-home, .home-about {
     width: 100%;
-    height: 50%;
+    display: block;
+  }
+
+  .home-about {
+    font-size: 0.7rem;
+  }
+
+  .home-footer {
+    padding: 20px;
+    text-align: center;
+    border-color: cornflowerblue;
+    
   }
 }
 
