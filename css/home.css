@@ -116,19 +116,25 @@ button:hover {
 @media only screen and (max-width:780px) {
   .container, .container-home, .home-about {
     width: 100%;
-    display: block;
+    display: contents;
   }
 
-  .home-about {
-    font-size: 0.7rem;
-  }
-
-  .home-footer {
-    padding: 20px;
-    text-align: center;
-    border-color: cornflowerblue;
+  button {
+    padding: 2%;
+    border-radius: 10rem;
+    float: left;
     
   }
+
+  .home-icon{
+    padding-top: 0.8rem;
+    padding-left: 0.7rem;
+  }
+
+  /* .home-about {
+    font-size: 0.7rem;
+  } */
+
 }
 
 
